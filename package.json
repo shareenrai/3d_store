@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-three/fiber": "^8.17.10",
+    "openai": "^4.68.4"
+  }
+}
